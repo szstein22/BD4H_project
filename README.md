@@ -38,3 +38,5 @@ Create a project named big-data-healthcare in Google BigQuery
 Add physionet-data as starred project
 Update necessary IAM roles
 Where you see code "--project big-data-healthcare" in Google Colab, update code to "big-data-healthcare-YOURUNIQUEAPPENDIX"
+
+With all the packages installed and proper access to MIMIC III, you are able to run and interact with our code in colab. 
